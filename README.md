@@ -1,5 +1,5 @@
 # angelova-portfolio
-# Hi there 👋, I'm Desislava Angelova
+# Hi there 👋, I'm Desi Angelova
 
 ### Senior .NET Developer
 
