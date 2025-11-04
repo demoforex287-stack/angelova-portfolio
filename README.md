@@ -22,10 +22,20 @@ I specialize in building robust backend systems and APIs using **C#, ASP.NET Cor
 
 ---
 
-### 🚀 My Projects
-1. **[Trading Platform API](https://github.com/yourusername/trading-platform-api)** - RESTful API for a trading platform built with ASP.NET Core and Entity Framework.
-2. **[Mail Tracking System](https://github.com/yourusername/mail-tracking-system)** - A system for tracking and managing mail items using C# and .NET Core.
+### 🚀 Work Projects
+Here are some of my recent projects:
 
+1. **[Trading Platform API](https://github.com/yourusername/trading-platform-api)**
+   - A RESTful API for a trading platform built with ASP.NET Core and Entity Framework.
+   - Features: User authentication, real-time trading signals, account management.
+
+2. **[Mail Tracking System](https://github.com/yourusername/mail-tracking-system)**
+   - A system for tracking and managing mail items using C# and .NET Core.
+   - Features: Real-time tracking, user management, integration with third-party services.
+
+3. **[E-commerce Backend](https://github.com/yourusername/ecommerce-backend)**
+   - Backend system for an e-commerce platform using ASP.NET Core and SQL Server.
+   - Features: Product management, order processing, payment integration.
 ---
 
 ### 💼 Professional Experience
