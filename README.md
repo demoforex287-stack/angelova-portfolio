@@ -17,7 +17,7 @@ I specialize in building robust backend systems and APIs using **C#, ASP.NET Cor
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourprofile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/none/)
 [![Email](https://img.shields.io/badge/Email-Send%20Message-red)](mailto:devangelova@gmail.com)
 
 ---
