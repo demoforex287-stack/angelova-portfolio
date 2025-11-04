@@ -25,7 +25,7 @@ I specialize in building robust backend systems and APIs using **C#, ASP.NET Cor
 ### 🚀 Work Projects
 Here are some of my recent projects:
 
-1. **[Trading Platform API](https://github.com/yourusername/trading-platform-api)**
+1. **[Trading Platform API](https://github.com/demoforex287-stack/zetradex-platform-webapi)**
    - A RESTful API for a trading platform built with ASP.NET Core and Entity Framework.
    - Features: User authentication, real-time trading signals, account management.
 
